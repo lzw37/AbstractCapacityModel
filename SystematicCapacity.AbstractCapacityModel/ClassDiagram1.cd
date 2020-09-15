@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SystematicCapacity.AbstractCapacityModel.Location">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractClass\Location.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.Movement">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAABAgAAEAAAAgAAgAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractClass\Movement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.Resource">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAggAAAAAAIAAAIAAAAAAAAAABACAAgAAA=</HashCode>
+      <FileName>AbstractClass\Resource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.ResourceStatus" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractClass\Resource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.ResourceStatusTransition" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractClass\Resource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.BlockSection">
+    <Position X="5.75" Y="3.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlockSection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.BlockSectionStatus" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAEAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlockSection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.BlockSectionStatusTransition" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlockSection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.CapacityEstimationModel" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAIAAAGQgAECAAAAgAIAAgAgAAgAAAAAAAIAAA=</HashCode>
+      <FileName>CapacityEstimationModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.DataRepository" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAEAIABAAAgAIAAAAhAAAAAAAAACCAAAAAACAA=</HashCode>
+      <FileName>DataRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.Parameters" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Parameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.Program" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.ResourceSelectionGroup" Collapsed="true">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAIAEAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResourceSelectionGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.ResourceStatusRule" Collapsed="true">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResourceSelectionGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.ResourceStatusTransitionRule" Collapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResourceSelectionGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.Segment" Collapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAACAAAAAAAAkAAAAAAAAEAAAA=</HashCode>
+      <FileName>Segment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.Station">
+    <Position X="3.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Station.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.Train" Collapsed="true">
+    <Position X="17.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAgAAAAAAAAAACAAAAAAAAAAAAAAEACAA=</HashCode>
+      <FileName>Train.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.TrainSegmentRunArc">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TrainSegmentRunArc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.Vehicle">
+    <Position X="9.75" Y="3.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.VehicleStatus" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAECAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystematicCapacity.AbstractCapacityModel.VehicleStatusTransition" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

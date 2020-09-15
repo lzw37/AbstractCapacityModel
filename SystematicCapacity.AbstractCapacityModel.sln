@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystematicCapacity.AbstractCapacityModel", "SystematicCapacity.AbstractCapacityModel\SystematicCapacity.AbstractCapacityModel.csproj", "{C70BDB4D-DF18-42CC-80A2-676A569052BE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Visualization", "Visualization\Visualization.pyproj", "{37600833-E34D-4B2C-9428-A642EF18B82D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C70BDB4D-DF18-42CC-80A2-676A569052BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70BDB4D-DF18-42CC-80A2-676A569052BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70BDB4D-DF18-42CC-80A2-676A569052BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70BDB4D-DF18-42CC-80A2-676A569052BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37600833-E34D-4B2C-9428-A642EF18B82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37600833-E34D-4B2C-9428-A642EF18B82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D2B3452-D363-493D-8458-A8C01B4DA581}
+	EndGlobalSection
+EndGlobal
